@@ -2,6 +2,10 @@
 
 
 License: MIT
+
+## Task Documentation
+You can see the system design and task details in this link:
+[google-doc](https://docs.google.com/document/d/1JJgHDT-zpOfiIRY6G8PJp56JwZmyScVZIBQLAnYzP_I/edit?usp=sharing)
 ## Swagger Address
 ```bash
 http://localhost:8088/api/docs/
